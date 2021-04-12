@@ -6,4 +6,7 @@ Video Explaining a program on Sequencing\
 [![Alonzo Draws a House](https://img.youtube.com/vi/5iB7cvxb0Eo/1.jpg)](https://youtu.be/5iB7cvxb0Eo)\
 \
 Video Explaining Loops\
-[![Break Dancer Loops](https://img.youtube.com/vi/auGKMhDnpZQ/1.jpg)](https://youtu.be/auGKMhDnpZQ)
+[![Break Dancer Loops](https://img.youtube.com/vi/auGKMhDnpZQ/1.jpg)](https://youtu.be/auGKMhDnpZQ)\
+\
+Animal Parade\
+[![Animal Parade](https://img.youtube.com/vi/pRCTGp1KFck/1.jpg)](https://youtu.be/pRCTGp1KFck)
