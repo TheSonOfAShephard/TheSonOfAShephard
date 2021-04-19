@@ -10,3 +10,10 @@ Video Explaining Loops\
 \
 Animal Parade\
 [![Animal Parade](https://img.youtube.com/vi/pRCTGp1KFck/1.jpg)](https://youtu.be/pRCTGp1KFck)
+\
+Rats! Nested Loops\
+[![Rats! Nested Loops](https://img.youtube.com/vi//fGk97C6y2F4/1.jpg)](https://youtu.be//fGk97C6y2F4)\
+\
+MOnkE - Events\
+[![MOnkE - Events](https://img.youtube.com/vi/fY7P41Fm5e0/1.jpg)](https://youtu.be/fY7P41Fm5e0)\
+\
