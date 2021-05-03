@@ -19,4 +19,7 @@ MOnkE - Events\
 \
 Variables - Events\
 [![Variables - Events](https://img.youtube.com/vi/30u9TMlWmzs/1.jpg)](https://youtu.be/30u9TMlWmzs)\
+\
+Conditional Loops - Events\
+[![Conditional Loops - Events](https://img.youtube.com/vi/EVDLTqxeWkE/1.jpg)](https://youtu.be/EVDLTqxeWkE)
 
