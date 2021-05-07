@@ -30,4 +30,8 @@ If and Else Statements\
 \
 Nested If and Else Statements\
 [![Nested If and Else Statements](https://img.youtube.com/vi/-tl2EREzNRU/1.jpg)](https://youtu.be/-tl2EREzNRU)
+\
+\
+Compound Conditionals\
+[![Compound Conditionals](https://img.youtube.com/vi/9ZtDA7zMuuU/1.jpg)](https://youtu.be/9ZtDA7zMuuU)
 
