@@ -18,11 +18,11 @@ MOnkE - Events\
 [![MOnkE - Events](https://img.youtube.com/vi/fY7P41Fm5e0/1.jpg)](https://youtu.be/fY7P41Fm5e0)\
 \
 Variables - Events\
-[![Variables - Events](https://img.youtube.com/vi/30u9TMlWmzs/1.jpg)](https://youtu.be/30u9TMlWmzs)\
+[![Variables](https://img.youtube.com/vi/30u9TMlWmzs/1.jpg)](https://youtu.be/30u9TMlWmzs)\
 \
 Conditional Loops - Events\
-[![Conditional Loops - Events](https://img.youtube.com/vi/EVDLTqxeWkE/1.jpg)](https://youtu.be/EVDLTqxeWkE)
+[![Conditional Loops](https://img.youtube.com/vi/EVDLTqxeWkE/1.jpg)](https://youtu.be/EVDLTqxeWkE)
 \
 If and Else Statements - Events\
-[![If and Else Statements - Events](https://img.youtube.com/vi/PcGfwrU6g-0/1.jpg)](https://youtu.be/PcGfwrU6g-0)
+[![If and Else Statements](https://img.youtube.com/vi/PcGfwrU6g-0/1.jpg)](https://youtu.be/PcGfwrU6g-0)
 
