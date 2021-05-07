@@ -22,4 +22,7 @@ Variables - Events\
 \
 Conditional Loops - Events\
 [![Conditional Loops - Events](https://img.youtube.com/vi/EVDLTqxeWkE/1.jpg)](https://youtu.be/EVDLTqxeWkE)
+\
+If and Else Statements - Events\
+[![If and Else Statements - Events](https://img.youtube.com/vi/PcGfwrU6g-0/1.jpg)](https://youtu.be/PcGfwrU6g-0)
 
