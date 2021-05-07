@@ -26,4 +26,7 @@ Conditional Loops\
 \
 If and Else Statements\
 [![If and Else Statements](https://img.youtube.com/vi/PcGfwrU6g-0/1.jpg)](https://youtu.be/PcGfwrU6g-0)
+\
+Nested If and Else Statements\
+[![Nested If and Else Statements](https://img.youtube.com/vi/-tl2EREzNRU/1.jpg)](https://youtu.be/-tl2EREzNRU)
 
