@@ -34,4 +34,7 @@ Nested If and Else Statements\
 \
 Compound Conditionals\
 [![Compound Conditionals](https://img.youtube.com/vi/9ZtDA7zMuuU/1.jpg)](https://youtu.be/9ZtDA7zMuuU)
-
+\
+\
+Abstraction\
+[![Abstraction](https://img.youtube.com/vi/zeBPo6QOWIQ/1.jpg)](https://youtu.be/zeBPo6QOWIQ)
