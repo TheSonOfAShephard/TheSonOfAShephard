@@ -38,3 +38,7 @@ Compound Conditionals\
 \
 Abstraction\
 [![Abstraction](https://img.youtube.com/vi/zeBPo6QOWIQ/1.jpg)](https://youtu.be/zeBPo6QOWIQ)
+\
+\
+Lists!\
+[![Lists!](https://img.youtube.com/vi/dUHls-tGdfk/1.jpg)](https://youtu.be/dUHls-tGdfk)
